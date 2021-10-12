@@ -16,4 +16,4 @@
 ### Math for Computer science
 **Author**: Ngoc-Hoang Luong - UIT
 
-+ [Math for Computer Science](https://github.com/quanghuy0497/cheatsheet-collection/Math-for-CS)
++ [Math for Computer Science](https://github.com/quanghuy0497/Cheatsheet-collection/tree/main/Math-for-CS)

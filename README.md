@@ -1,7 +1,7 @@
 ## Cheatsheet collection 
 
 ### AI-ML-DL cheatsheets - Standford
-**Author**: Shervine Amidi - Standford
+**Author**: Shervine Amidi
 
 + [Cheatsheet of AI](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-artificial-intelligence.pdf)
 + [Cheatsheet of ML](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-machine-learning.pdf)
@@ -14,7 +14,7 @@
 + [Linear Algebra cheatsheet](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Wisconsin-Mandison-cheatsheet/Linear_Algebra_cheat_sheet.pdf)
 
 ### Math for Computer science - UIT
-**Author**: Ngoc-Hoang Luong - UIT
+**Author**: Ngoc-Hoang Luong
 + [Math for Computer Science](https://github.com/quanghuy0497/Cheatsheet-collection/tree/main/Math-for-CS)
 
 ### Python cheatsheets

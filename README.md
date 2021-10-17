@@ -1,13 +1,17 @@
-# Cheatsheet collection 
+## Cheatsheet collection 
 Cheatsheet collections for Math, A.I., Python libraries.
 Update frequently
 
-## A.I. cheatsheets
+## A.I. cheatsheet
 ### Deep Learning cheetsheet - Standford
 **Author**: Shervine Amidi  
 + [Cheatsheet of AI](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-artificial-intelligence.pdf)
 + [Cheatsheet of ML](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-machine-learning.pdf)
 + [Cheatsheet of DL](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-deep-learning.pdf)
+
+### Some image-cheatsheet stuff
++ **Activation functions**:  
+  ![](Images/activation_function.png)
 
 ## Mathetmatic cheatsheet
 ### Linear Algebra cheatsheet - Wisconsin-Mandison  
@@ -23,10 +27,6 @@ Update frequently
 **Author**: Ngoc-Hoang Luong
 + [Math for Computer Science](https://github.com/quanghuy0497/Cheatsheet-collection/tree/main/Math-for-CS)
 
-### Some cheatsheet-image stuff
-+ **Activation functions**:  
-  ![](Images/activation_function.png)
-
 ## Python cheatsheet
 ### Library cheatsheet
 + [Keras](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Python-cheatsheet/Keras.pdf)
@@ -39,4 +39,3 @@ Update frequently
 ### Pytorch cheatsheet
 + [Pytorch cheatsheet](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Pytorch-cheatsheet/cheatsheet_pytorch.pdf)
 + [Pytorch tutorial](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Pytorch-cheatsheet/Pytorch_Tutorial.pdf)
-

@@ -2,11 +2,6 @@
 Cheatsheet collections for Math, A.I., Python libraries.   
 Update frequently
 
-## Table of contents
-* [**Math cheatsheet**](#Mathematic-cheatsheet)
-* [**A.I. cheatsheet**](##AI-Cheatsheet)
-* [**Python cheatsheet**](#Python-cheatsheet)
-
 ## Math cheatsheet
 ### Some image-cheatsheet stuff
 + **Activation functions**:  

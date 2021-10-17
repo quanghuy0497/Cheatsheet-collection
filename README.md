@@ -20,8 +20,8 @@ Update frequently
 
 ### Statistic/Probability cheetsheet - Standford
 **Author**: Shervine Amidi  
-+ [Cheatsheet of Statistic](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/cheatsheet-statistics.pdf)
-+ [Cheatsheet of Probability](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/cheatsheet-probability.pdf)
++ [Statistic cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/cheatsheet-statistics.pdf)
++ [Probability cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/cheatsheet-probability.pdf)
 
 ### Math for Computer Science - UIT
 **Author**: Ngoc-Hoang Luong

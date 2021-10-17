@@ -1,18 +1,21 @@
 # Cheatsheet collection 
 
 ## A.I. cheatsheets
-### Deep Learning cheetsheets - Standford
+### Deep Learning cheetsheet - Standford
 **Author**: Shervine Amidi  
 + [Cheatsheet of AI](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-artificial-intelligence.pdf)
 + [Cheatsheet of ML](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-machine-learning.pdf)
 + [Cheatsheet of DL](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-deep-learning.pdf)
-+ [Cheatsheet of Statistic](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/cheatsheet-statistics.pdf)
-+ [Cheatsheet of Probability](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/cheatsheet-probability.pdf)
 
 ## Mathetmatic cheatsheet
 ### Linear Algebra cheatsheet - Wisconsin-Mandison  
 **Author**: Laurent Lessard  
 + [Linear Algebra cheatsheet](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Wisconsin-Mandison-cheatsheet/Linear_Algebra_cheat_sheet.pdf)
+
+### Statistic/Probability cheetsheet - Standford
+**Author**: Shervine Amidi  
++ [Cheatsheet of Statistic](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/cheatsheet-statistics.pdf)
++ [Cheatsheet of Probability](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/cheatsheet-probability.pdf)
 
 ### Math for Computer Science - UIT
 **Author**: Ngoc-Hoang Luong

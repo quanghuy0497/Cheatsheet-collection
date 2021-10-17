@@ -1,5 +1,6 @@
 # Cheatsheet collection 
-Cheatsheet collections for Math, A.I., Python libraries. Update frequently
+Cheatsheet collections for Math, A.I., Python libraries.
+Update frequently
 
 ## A.I. cheatsheets
 ### Deep Learning cheetsheet - Standford

@@ -1,5 +1,5 @@
 ## Cheatsheet collection 
-Cheatsheet collections for Math, A.I., Python libraries.
+Cheatsheet collections for Math, A.I., Python libraries.   
 Update frequently
 
 ## A.I. cheatsheet
@@ -13,7 +13,7 @@ Update frequently
 + **Activation functions**:  
   ![](Images/activation_function.png)
 + **Distribution**:  
-  Read [**here**](https://github.com/graykode/distribution-is-all-you-need) for more details  
+  Read [**here**](https://github.com/graykode/distribution-is-all-you-need) for more details. Or [**here**](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/cheatsheet-code/Distributions.ipynb) for the summary code.  
   ![](Images/distribution.png)
 
 ## Mathematic cheatsheet

@@ -12,6 +12,9 @@ Update frequently
 ### Some image-cheatsheet stuff
 + **Activation functions**:  
   ![](Images/activation_function.png)
++ **Distribution**:  
+  Read [**here**](https://github.com/graykode/distribution-is-all-you-need) for more informations  
+  ![](Images/distribution.png)
 
 ## Mathematic cheatsheet
 ### Linear Algebra cheatsheet - Wisconsin-Mandison  

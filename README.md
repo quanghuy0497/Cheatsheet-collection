@@ -13,7 +13,7 @@ Update frequently
 + **Activation functions**:  
   ![](Images/activation_function.png)
 + **Distribution**:  
-  Read [**here**](https://github.com/graykode/distribution-is-all-you-need) for more informations  
+  Read [**here**](https://github.com/graykode/distribution-is-all-you-need) for more details  
   ![](Images/distribution.png)
 
 ## Mathematic cheatsheet

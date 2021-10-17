@@ -1,4 +1,5 @@
 # Cheatsheet collection 
+Cheatsheet collections for Math, A.I., Python libraries. Update frequently
 
 ## A.I. cheatsheets
 ### Deep Learning cheetsheet - Standford
@@ -26,7 +27,7 @@
   ![](Images/activation_function.png)
 
 ## Python cheatsheet
-### Libary cheatsheet
+### Library cheatsheet
 + [Keras](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Python-cheatsheet/Keras.pdf)
 + [Matplotlib](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Python-cheatsheet/Matplotlib.pdf)
 + [Numpy](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Python-cheatsheet/Numpy.pdf)

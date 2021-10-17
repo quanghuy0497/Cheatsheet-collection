@@ -13,7 +13,7 @@ Update frequently
 + **Activation functions**:  
   ![](Images/activation_function.png)
 
-## Mathetmatic cheatsheet
+## Mathematic cheatsheet
 ### Linear Algebra cheatsheet - Wisconsin-Mandison  
 **Author**: Laurent Lessard  
 + [Linear Algebra cheatsheet](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Wisconsin-Mandison-cheatsheet/Linear_Algebra_cheat_sheet.pdf)

@@ -2,6 +2,14 @@
 Cheatsheet collections for Math, A.I., Python libraries.   
 Update frequently
 
+
+## A.I. cheatsheet
+### Deep Learning cheetsheet - Standford
+**Author**: Shervine Amidi  
++ [AI cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-artificial-intelligence.pdf)
++ [ML cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-machine-learning.pdf)
++ [DL cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-deep-learning.pdf)
+
 ## Math cheatsheet
 ### Some image-cheatsheet stuff
 + **Activation functions**:  
@@ -22,13 +30,6 @@ Update frequently
 ### Math for Computer Science - UIT
 **Author**: Ngoc-Hoang Luong
 + [Math for Computer Science](https://github.com/quanghuy0497/Cheatsheet-collection/tree/main/Math-for-CS)
-
-## A.I. cheatsheet
-### Deep Learning cheetsheet - Standford
-**Author**: Shervine Amidi  
-+ [AI cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-artificial-intelligence.pdf)
-+ [ML cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-machine-learning.pdf)
-+ [DL cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-deep-learning.pdf)
  
 ## Python cheatsheet
 ### Library cheatsheet

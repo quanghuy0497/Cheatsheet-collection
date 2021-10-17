@@ -5,9 +5,9 @@ Update frequently
 ## A.I. cheatsheet
 ### Deep Learning cheetsheet - Standford
 **Author**: Shervine Amidi  
-+ [Cheatsheet of AI](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-artificial-intelligence.pdf)
-+ [Cheatsheet of ML](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-machine-learning.pdf)
-+ [Cheatsheet of DL](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-deep-learning.pdf)
++ [AI cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-artificial-intelligence.pdf)
++ [ML cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-machine-learning.pdf)
++ [DL cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Standford-cheatsheet/super-cheatsheet-deep-learning.pdf)
 
 ### Some image-cheatsheet stuff
 + **Activation functions**:  

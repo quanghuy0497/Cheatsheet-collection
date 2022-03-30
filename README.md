@@ -41,6 +41,10 @@ Update frequently
 ### Math for Computer Science - UIT
 **Author**: Ngoc-Hoang Luong
 + [Math for Computer Science](https://github.com/quanghuy0497/Cheatsheet-collection/tree/main/Math-for-CS)
+
+### Probability Cheatsheet
+**Author**: Joe Blitzstein - Professor of Statistics at Harvard
++ [Probability cheatsheet](http://www.wzchen.com/probability-cheatsheet/)
  
 ## Python cheatsheet
 ### Library cheatsheet

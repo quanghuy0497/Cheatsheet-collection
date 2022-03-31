@@ -45,6 +45,7 @@ Update frequently
 ### Probability Cheatsheet
 **Author**: Joe Blitzstein - Professor of Statistics at Harvard
 + [Probability cheatsheet](http://www.wzchen.com/probability-cheatsheet/)
++ [Book](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
  
 ## Python cheatsheet
 ### Library cheatsheet

@@ -27,10 +27,12 @@ Update frequently
   Read [**here**](https://github.com/graykode/distribution-is-all-you-need) for more details, or try [**here**](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/cheatsheet-code/Distributions.ipynb) for the summary implementation code.  
   ![](Images/distribution.png)
 + **Optimization**:  
-  Read [**here**] for more details.  
+  Read [**here**](https://theaisummer.com/optimization/) for more details.  
 
 ### Probability Cheatsheet - Harvard's Stat 110
 **Author**: Joe Blitzstein - Professor of Statistics at Harvard  
++ [Probability cheatsheet](http://www.wzchen.com/probability-cheatsheet/)
++ [Book](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)  
 ![First Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_1.jpg)
 ![Second Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_2.jpg)
 ![Third Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_3.jpg)
@@ -41,8 +43,6 @@ Update frequently
 ![Eighth Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_8.jpg)
 ![Nineth Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_9.jpg)
 ![Tenth Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_10.jpg)  
-+ [Probability cheatsheet](http://www.wzchen.com/probability-cheatsheet/)
-+ [Book](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
 
 ### Linear Algebra cheatsheet - Wisconsin-Mandison  
 **Author**: Laurent Lessard  

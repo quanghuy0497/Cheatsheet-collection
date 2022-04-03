@@ -15,7 +15,7 @@ Update frequently
 + [The Machine Learning cheatsheet](https://github.com/quanghuy0497/cheatsheet-collection/blob/main/Other-cheatsheet/Machine_Learning_Cheatsheet.pdf)
 ![First Page](https://imgur.com/iHD35fz.jpg)
 ![Second Page](https://imgur.com/1iutktN.jpg)
-![Thirt Page](https://imgur.com/2Ryd5Wx.jpg)
+![Third Page](https://imgur.com/2Ryd5Wx.jpg)
 ![Fourth Page](https://imgur.com/Bvni7tu.jpg)
 ![Fifth Page](https://imgur.com/QJFEiIh.jpg)
 
@@ -29,6 +29,21 @@ Update frequently
 + **Optimization**:  
   Read [**here**] for more details.  
 
+### Probability Cheatsheet - Harvard's Stat 110
+**Author**: Joe Blitzstein - Professor of Statistics at Harvard  
+![First Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_1.jpg)
+![Second Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_2.jpg)
+![Third Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_3.jpg)
+![Fourth Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_4.jpg)
+![Fifth Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_5.jpg)
+![Sixth Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_6.jpg)
+![Seventh Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_7.jpg)
+![Eighth Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_8.jpg)
+![Nineth Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_9.jpg)
+![Tenth Page](Probability-cheatsheet/probability_cheatsheet/probability_cheatsheet1024_10.jpg)  
++ [Probability cheatsheet](http://www.wzchen.com/probability-cheatsheet/)
++ [Book](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
+
 ### Linear Algebra cheatsheet - Wisconsin-Mandison  
 **Author**: Laurent Lessard  
 + [Linear Algebra cheatsheet](https://github.com/quanghuy0497/Cheatsheet-collection/blob/main/Wisconsin-Mandison-cheatsheet/Linear_Algebra_cheat_sheet.pdf)
@@ -41,11 +56,6 @@ Update frequently
 ### Math for Computer Science - UIT
 **Author**: Ngoc-Hoang Luong
 + [Math for Computer Science](https://github.com/quanghuy0497/Cheatsheet-collection/tree/main/Math-for-CS)
-
-### Probability Cheatsheet
-**Author**: Joe Blitzstein - Professor of Statistics at Harvard
-+ [Probability cheatsheet](http://www.wzchen.com/probability-cheatsheet/)
-+ [Book](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
  
 ## Python cheatsheet
 ### Library cheatsheet
